@@ -1,0 +1,183 @@
+﻿  ChessFieldGenerator.cpp
+C:\Users\Light\source\repos\State_Pattern\State_Pattern\ChessFieldGenerator.h(6,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\Light\source\repos\State_Pattern\State_Pattern\ChessFieldGenerator.cpp(61,21): warning C4018: <: несоответствие типов со знаком и без знака
+  ChessGameRule.cpp
+C:\Users\Light\source\repos\State_Pattern\State_Pattern\ChessFieldGenerator.h(6,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\Light\source\repos\State_Pattern\State_Pattern\ChessGameRule.h(8,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  GameInProgressState.cpp
+C:\Users\Light\source\repos\State_Pattern\State_Pattern\ChessFieldGenerator.h(6,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\Light\source\repos\State_Pattern\State_Pattern\ChessGameRule.h(8,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\Light\source\repos\State_Pattern\State_Pattern\GameEndState.h(26,91): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Light\source\repos\State_Pattern\State_Pattern\GameEndState.h(26,51): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Light\source\repos\State_Pattern\State_Pattern\GameInProgressState.cpp(13,62): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Light\source\repos\State_Pattern\State_Pattern\GameInProgressState.cpp(13,46): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Light\source\repos\State_Pattern\State_Pattern\GameInProgressState.cpp(66,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Light\source\repos\State_Pattern\State_Pattern\GameInProgressState.cpp(89,44): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+  GamePausedState.cpp
+C:\Users\Light\source\repos\State_Pattern\State_Pattern\ChessFieldGenerator.h(6,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\Light\source\repos\State_Pattern\State_Pattern\ChessGameRule.h(8,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\Light\source\repos\State_Pattern\State_Pattern\GameEndState.h(26,91): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Light\source\repos\State_Pattern\State_Pattern\GameEndState.h(26,51): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Light\source\repos\State_Pattern\State_Pattern\GamePausedState.cpp(46,90): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Light\source\repos\State_Pattern\State_Pattern\GamePausedState.cpp(46,50): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+  GameState.cpp
+C:\Users\Light\source\repos\State_Pattern\State_Pattern\ChessFieldGenerator.h(6,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\Light\source\repos\State_Pattern\State_Pattern\ChessGameRule.h(8,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\Light\source\repos\State_Pattern\State_Pattern\GameEndState.h(26,91): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Light\source\repos\State_Pattern\State_Pattern\GameEndState.h(26,51): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+  HumanPlayer.cpp
+C:\Users\Light\source\repos\State_Pattern\State_Pattern\ChessFieldGenerator.h(6,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\Light\source\repos\State_Pattern\State_Pattern\ChessGameRule.h(8,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  MainMenuState.cpp
+C:\Users\Light\source\repos\State_Pattern\State_Pattern\ChessFieldGenerator.h(6,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\Light\source\repos\State_Pattern\State_Pattern\ChessGameRule.h(8,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\Light\source\repos\State_Pattern\State_Pattern\GameEndState.h(26,91): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Light\source\repos\State_Pattern\State_Pattern\GameEndState.h(26,51): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+  Pawn.cpp
+  TiledGameField.cpp
+C:\Users\Light\source\repos\State_Pattern\State_Pattern\ChessFieldGenerator.h(6,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\Light\source\repos\State_Pattern\State_Pattern\ChessGameRule.h(8,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\Light\source\repos\State_Pattern\State_Pattern\GameEndState.h(26,91): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Light\source\repos\State_Pattern\State_Pattern\GameEndState.h(26,51): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+  main.cpp
+C:\Users\Light\source\repos\State_Pattern\State_Pattern\ChessFieldGenerator.h(6,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\Light\source\repos\State_Pattern\State_Pattern\ChessGameRule.h(8,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\Light\source\repos\State_Pattern\State_Pattern\GameEndState.h(26,91): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Light\source\repos\State_Pattern\State_Pattern\GameEndState.h(26,51): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+  Создание кода...
+C:\Users\Light\source\repos\State_Pattern\State_Pattern\ChessGameRule.cpp(25): warning C4715: ChessGameRule::HandleClick: значение возвращается не при всех путях выполнения
+C:\Users\Light\source\repos\State_Pattern\State_Pattern\ChessGameRule.cpp(153): warning C4715: ChessGameRule::GetKingPos: значение возвращается не при всех путях выполнения
+C:\Users\Light\source\repos\State_Pattern\State_Pattern\ChessGameRule.cpp(178): warning C4715: ChessGameRule::CheckGivenTeamForCheckmate: значение возвращается не при всех путях выполнения
+  State_Pattern.vcxproj -> C:\Users\Light\source\repos\State_Pattern\Debug\State_Pattern.exe

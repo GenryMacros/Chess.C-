@@ -1,0 +1,280 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="UI">
+      <UniqueIdentifier>{651e5cf3-0bc6-49fc-855c-93b6ee6c400a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="App">
+      <UniqueIdentifier>{6997bbbc-adea-4340-9680-1320d15a84ec}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Tiles">
+      <UniqueIdentifier>{f668a234-c4ef-4b0d-be17-2c2b162708bd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="UI\Animations">
+      <UniqueIdentifier>{4b14504f-3d6f-4eeb-8412-192a1f2e4f27}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="UI\Animations\Intefraces">
+      <UniqueIdentifier>{bc8332f6-0cd8-4814-a94a-84f0fe35fc3c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="UI\Animations\FadingAnimator">
+      <UniqueIdentifier>{cc05fd64-c09c-4557-97bb-5d575e7311f5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="UI\Elements">
+      <UniqueIdentifier>{945ce0ff-f076-400a-bbff-3dbaf219f8d2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="UI\Elements\Oval">
+      <UniqueIdentifier>{8759a3a4-b268-4ac9-b418-15b60136961c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="UI\Elements\Recktangle">
+      <UniqueIdentifier>{75b662cd-25b2-47f0-8bb1-f1a64f4e7666}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="UI\Elements\Interfaces">
+      <UniqueIdentifier>{ddeb5b5d-48c6-4bec-8927-9bc25cf21a41}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="UI\MainMenu">
+      <UniqueIdentifier>{0fb609e6-7262-4025-a3a7-b2643cdea998}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game">
+      <UniqueIdentifier>{8d414e29-8e66-4393-88df-9532adb9b703}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\GameProviders">
+      <UniqueIdentifier>{8a484e00-9a3b-4c3b-83de-e7b9f20707df}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\Chess">
+      <UniqueIdentifier>{8dc1ed8a-4e1c-49e1-a29f-45ac6dd2c78e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\Chess\Pieces">
+      <UniqueIdentifier>{d2e86c22-574b-4c8e-8846-94747a0c66e8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\Chess\Pieces\Parent">
+      <UniqueIdentifier>{8feebd24-4c4f-4488-8931-03bbe00df063}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\Chess\Rules">
+      <UniqueIdentifier>{472b6654-91a3-48d6-a033-961ad4ce4db1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="States">
+      <UniqueIdentifier>{127d940d-fcb7-4475-b2d2-1cab54754520}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="States\Exit">
+      <UniqueIdentifier>{d9a1c9ed-90cb-4367-a85d-183e9819b761}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="States\Game">
+      <UniqueIdentifier>{559a62ca-5069-46c9-9c59-539738bd969b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="States\MainMenu">
+      <UniqueIdentifier>{524ba19b-716f-4a24-942d-4157e818dda6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\GameProviders\Player">
+      <UniqueIdentifier>{7fda32dd-ac77-4ff0-b2de-46cfa38d385c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\Chess\Pieces\Bishop">
+      <UniqueIdentifier>{06094f9d-8904-4d2e-b14a-da2f85b1d3f8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\Chess\Pieces\Castle">
+      <UniqueIdentifier>{cab492d1-713b-4543-81dc-abc9394c2991}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\Chess\Pieces\Horse">
+      <UniqueIdentifier>{32fdb244-5ce2-4911-9435-366dfccbc14f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\Chess\Pieces\King">
+      <UniqueIdentifier>{3591901f-9a2b-4ac7-b04e-a9ad76058bbe}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\Chess\Pieces\Queen">
+      <UniqueIdentifier>{9c912b10-4cae-416f-821d-e7dc896fe1d3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\Chess\Pieces\Pawn">
+      <UniqueIdentifier>{11b25330-e11f-465a-af92-5425a516e6d7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\GameProviders\States">
+      <UniqueIdentifier>{c3d84198-8ee9-44b5-bc62-516f1f8b279b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\GameProviders\States\GameEndState">
+      <UniqueIdentifier>{26426c59-7df6-460a-9aa8-729f1e0440a0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\GameProviders\States\GameInProgress">
+      <UniqueIdentifier>{c85bc71b-7f4b-403b-b23d-22b540f24a60}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\GameProviders\States\GamePaused">
+      <UniqueIdentifier>{beff83b0-c499-48a1-871e-8c735f0463b9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\GameProviders\Hosts">
+      <UniqueIdentifier>{7fad1307-2e94-41c3-887b-d6131e277a7b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\GameProviders\Hosts\PlayeField">
+      <UniqueIdentifier>{ad544b8e-4b97-4b3e-be34-0f06617adf9f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\GameProviders\Hosts\TilesHolder">
+      <UniqueIdentifier>{1247c19c-f0e2-4efd-b51f-c76e3e467b4c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Tiles\Tile">
+      <UniqueIdentifier>{98739cf8-add6-4482-8238-0346ea35e415}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="App.cpp">
+      <Filter>App</Filter>
+    </ClCompile>
+    <ClCompile Include="FadingAnimator.cpp">
+      <Filter>UI\Animations\FadingAnimator</Filter>
+    </ClCompile>
+    <ClCompile Include="MainMenuUIController.cpp">
+      <Filter>UI\MainMenu</Filter>
+    </ClCompile>
+    <ClCompile Include="Recktangle.cpp">
+      <Filter>UI\Elements\Recktangle</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="Oval.cpp">
+      <Filter>UI\Elements\Oval</Filter>
+    </ClCompile>
+    <ClCompile Include="MainMenuState.cpp">
+      <Filter>States\MainMenu</Filter>
+    </ClCompile>
+    <ClCompile Include="GameState.cpp">
+      <Filter>States\Game</Filter>
+    </ClCompile>
+    <ClCompile Include="PlayerController.cpp">
+      <Filter>Game\GameProviders\Player</Filter>
+    </ClCompile>
+    <ClCompile Include="HumanPlayer.cpp">
+      <Filter>Game\GameProviders\Player</Filter>
+    </ClCompile>
+    <ClCompile Include="ChessFieldGenerator.cpp">
+      <Filter>Game\Chess\Rules</Filter>
+    </ClCompile>
+    <ClCompile Include="Bishop.cpp">
+      <Filter>Game\Chess\Pieces\Bishop</Filter>
+    </ClCompile>
+    <ClCompile Include="Castle.cpp">
+      <Filter>Game\Chess\Pieces\Castle</Filter>
+    </ClCompile>
+    <ClCompile Include="Horse.cpp">
+      <Filter>Game\Chess\Pieces\Horse</Filter>
+    </ClCompile>
+    <ClCompile Include="King.cpp">
+      <Filter>Game\Chess\Pieces\King</Filter>
+    </ClCompile>
+    <ClCompile Include="Queen.cpp">
+      <Filter>Game\Chess\Pieces\Queen</Filter>
+    </ClCompile>
+    <ClCompile Include="Pawn.cpp">
+      <Filter>Game\Chess\Pieces\Pawn</Filter>
+    </ClCompile>
+    <ClCompile Include="GameInProgressState.cpp">
+      <Filter>Game\GameProviders\States\GameInProgress</Filter>
+    </ClCompile>
+    <ClCompile Include="GamePausedState.cpp">
+      <Filter>Game\GameProviders\States\GamePaused</Filter>
+    </ClCompile>
+    <ClCompile Include="TiledGameField.cpp">
+      <Filter>Game\GameProviders\Hosts\PlayeField</Filter>
+    </ClCompile>
+    <ClCompile Include="TilesHolder.cpp">
+      <Filter>Game\GameProviders\Hosts\TilesHolder</Filter>
+    </ClCompile>
+    <ClCompile Include="Tile.cpp">
+      <Filter>Tiles\Tile</Filter>
+    </ClCompile>
+    <ClCompile Include="ChessGameRule.cpp">
+      <Filter>Game\Chess\Rules</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="App.h">
+      <Filter>App</Filter>
+    </ClInclude>
+    <ClInclude Include="IAnimator.h">
+      <Filter>UI\Animations\Intefraces</Filter>
+    </ClInclude>
+    <ClInclude Include="DummyAnimator.h">
+      <Filter>UI\Animations</Filter>
+    </ClInclude>
+    <ClInclude Include="FadingAnimator.h">
+      <Filter>UI\Animations\FadingAnimator</Filter>
+    </ClInclude>
+    <ClInclude Include="MainMenuUIController.h">
+      <Filter>UI\MainMenu</Filter>
+    </ClInclude>
+    <ClInclude Include="ExitState.h">
+      <Filter>States\Exit</Filter>
+    </ClInclude>
+    <ClInclude Include="IUiElem.h">
+      <Filter>UI\Elements\Interfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="Recktangle.h">
+      <Filter>UI\Elements\Recktangle</Filter>
+    </ClInclude>
+    <ClInclude Include="Piece.h">
+      <Filter>Game\Chess\Pieces\Parent</Filter>
+    </ClInclude>
+    <ClInclude Include="Tile.h">
+      <Filter>Tiles\Tile</Filter>
+    </ClInclude>
+    <ClInclude Include="GameObject.h">
+      <Filter>Tiles</Filter>
+    </ClInclude>
+    <ClInclude Include="ChessGameRule.h">
+      <Filter>Game\Chess\Rules</Filter>
+    </ClInclude>
+    <ClInclude Include="IGameRule.h">
+      <Filter>Game\GameProviders</Filter>
+    </ClInclude>
+    <ClInclude Include="Oval.h">
+      <Filter>UI\Elements\Oval</Filter>
+    </ClInclude>
+    <ClInclude Include="IState.h">
+      <Filter>States</Filter>
+    </ClInclude>
+    <ClInclude Include="GameState.h">
+      <Filter>States\Game</Filter>
+    </ClInclude>
+    <ClInclude Include="MainMenuState.h">
+      <Filter>States\MainMenu</Filter>
+    </ClInclude>
+    <ClInclude Include="ChessFieldGenerator.h">
+      <Filter>Game\Chess\Rules</Filter>
+    </ClInclude>
+    <ClInclude Include="PlayerController.h">
+      <Filter>Game\GameProviders\Player</Filter>
+    </ClInclude>
+    <ClInclude Include="Player.h">
+      <Filter>Game\GameProviders\Player</Filter>
+    </ClInclude>
+    <ClInclude Include="HumanPlayer.h">
+      <Filter>Game\GameProviders\Player</Filter>
+    </ClInclude>
+    <ClInclude Include="Bishop.h">
+      <Filter>Game\Chess\Pieces\Bishop</Filter>
+    </ClInclude>
+    <ClInclude Include="Castle.h">
+      <Filter>Game\Chess\Pieces\Castle</Filter>
+    </ClInclude>
+    <ClInclude Include="Horse.h">
+      <Filter>Game\Chess\Pieces\Horse</Filter>
+    </ClInclude>
+    <ClInclude Include="King.h">
+      <Filter>Game\Chess\Pieces\King</Filter>
+    </ClInclude>
+    <ClInclude Include="Queen.h">
+      <Filter>Game\Chess\Pieces\Queen</Filter>
+    </ClInclude>
+    <ClInclude Include="Pawn.h">
+      <Filter>Game\Chess\Pieces\Pawn</Filter>
+    </ClInclude>
+    <ClInclude Include="GameEndState.h">
+      <Filter>Game\GameProviders\States\GameEndState</Filter>
+    </ClInclude>
+    <ClInclude Include="GameInProgressState.h">
+      <Filter>Game\GameProviders\States\GameInProgress</Filter>
+    </ClInclude>
+    <ClInclude Include="GamePausedState.h">
+      <Filter>Game\GameProviders\States\GamePaused</Filter>
+    </ClInclude>
+    <ClInclude Include="TiledGameFiled.h">
+      <Filter>Game\GameProviders\Hosts\PlayeField</Filter>
+    </ClInclude>
+    <ClInclude Include="TilesHolder.h">
+      <Filter>Game\GameProviders\Hosts\TilesHolder</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
